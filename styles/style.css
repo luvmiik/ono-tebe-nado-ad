@@ -298,7 +298,7 @@
 .footer {
     margin: 0 auto;
     max-width: 1100px;
-    padding: 180px 50px 88px;
+    padding: 180px 50px 83px;
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: start;
